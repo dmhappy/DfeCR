@@ -8,7 +8,7 @@ pip3 install torch torchvision
 ```
 3. Clone with Git, and then enter the root directory:
 ```
-
+https://github.com/dmhappy/DfeCR
 ```
 4. Install requirements for evaluation metrics:
 ```
