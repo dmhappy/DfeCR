@@ -1,7 +1,6 @@
 #! /bin/bash
 
 # some parameters
-model="cavp"
 id="_01"
 batch_size=100
 
