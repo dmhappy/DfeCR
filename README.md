@@ -8,7 +8,7 @@ pip3 install torch torchvision
 ```
 3. Clone with Git, and then enter the root directory:
 ```
-git clone --recursive https://github.com/daqingliu/CAVP.git && cd CAVP
+
 ```
 4. Install requirements for evaluation metrics:
 ```
